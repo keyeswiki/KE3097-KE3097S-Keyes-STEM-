@@ -6,7 +6,7 @@
 
 		<block type="ke_a_Write">
 			<value name="PIN">
-				<shadow type="pins_digital"></shadow>
+				<shadow type="pins_pwm"></shadow>
 			</value>
 			<value name="num">
 				<shadow type="math_number">
