@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KE3097(KE3097S) Keyes STEM电子积木 传感器初级套件
+   :caption: Keyes STEM电子积木传感器初级套件
 
    README.md
    docs/index.md
